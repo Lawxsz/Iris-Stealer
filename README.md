@@ -14,3 +14,4 @@
 - Cookie Injection: Injects and extracts cookies to gain access to web sessions.
 - Stealth Mode: Operates discreetly to avoid detection.
 
+t.me/irisstealer
